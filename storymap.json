@@ -65,7 +65,7 @@
                 "url": "images/vintage-the-golden-twenties-in-berlin-1920s-05.jpg"
             },
             "text": {
-                "headline": "Berl\u00edN, 1920",
+                "headline": "Berl\u00edn, 1920",
                 "text": "Za\u010diatkom dvadsiatych rokov odcestoval Weisz do Berl\u00edna, kde zam\u00fd\u0161\u013eal \u201esvoju soch\u00e1rsku akad\u00e9miu skon\u010di\u0165\u201c, ako uv\u00e1dza v \u017eiadosti o pas z marca 1920. V Berl\u00edne str\u00e1vil nieko\u013eko rokov, soch\u00e1rstvo v\u0161ak nemalo by\u0165 jeho osudom...za\u010dal sa orientova\u0165 v\u00fdlu\u010dne na ma\u013ebu, kresbu a grafiku. Zrejme nav\u0161tevoval s\u00fakromn\u00fa \u0161kolu alebo bral s\u00fakromn\u00e9 hodiny. B\u00farliv\u00e1, dynamick\u00e1 atmosf\u00e9ra povojnov\u00e9ho Berl\u00edna mlad\u00e9ho umelca z\u00e1sadne a natrvalo poznamenala, ako s\u00e1m hovoril, \u201evsal do seba v\u0161etko, \u010do v povojnovom maliarstve bolo podnetn\u00e9ho\u201c, najm\u00e4 v\u0161ak trad\u00edciu a silu nemeck\u00e9ho expresionizmu, ktor\u00fd prirodzene kore\u0161pondoval s jeho osobnos\u0165ou.<br>"
             }
         }, {
@@ -88,7 +88,7 @@
                 "url": "images/Dolny-Kubin.jpg"
             },
             "text": {
-                "headline": "Doln\u00fd kub\u00edn",
+                "headline": "Doln\u00fd Kub\u00edn",
                 "text": "Pravdepodobne v roku 1923 sa Arnold Weisz vr\u00e1til na Slovensko, do Doln\u00e9ho Kub\u00edna, kde str\u00e1vil nasleduj\u00facich desa\u0165 rokov. Weisz bol, usudzuj\u00fac zo spomienok priate\u013eov a s\u00fa\u010dasn\u00edkov, idealistickou, skromnou a \u2013 nielen v\u00fdzorom \u2013 a\u017e asketickou osobnos\u0165ou. Bol v\u0161ak z\u00e1rove\u0148 osobnos\u0165ou zlo\u017eitou, jeho ment\u00e1lne&nbsp; nastavenie skr\u00fdvalo mnoho kontrastov a protire\u010den\u00ed.<br>"
             }
         }, {
@@ -185,7 +185,7 @@
             }
         }],
         "map_access_token": "pk.eyJ1IjoibGFiLXNuZyIsImEiOiJjangzZDEycDQwMDd1NDRsYnFuZTl1dTFnIn0.R9y0R8xrmDmkT3-X8dMP4w",
-        "map_type": "mapbox:mapbox://styles/mapbox/outdoors-v9",
+        "map_type": "mapbox:mapbox://styles/lab-sng/cjyem72sa01rq1ct217wb6au8",
         "call_to_action_text": "Jak\u017ee?",
         "map_as_image": false,
         "map_subdomains": "abcd"

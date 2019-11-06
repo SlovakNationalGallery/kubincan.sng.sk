@@ -544,7 +544,7 @@
         ],
         "map_access_token": "pk.eyJ1IjoibGFiLXNuZyIsImEiOiJjangzZDEycDQwMDd1NDRsYnFuZTl1dTFnIn0.R9y0R8xrmDmkT3-X8dMP4w",
         "map_type": "mapbox:mapbox://styles/lab-sng/cjyem72sa01rq1ct217wb6au8",
-        "call_to_action_text": "Jakže?",
+        "call_to_action_text": "Pokračovať",
         "map_as_image": false,
         "map_subdomains": "abcd"
     },

@@ -6842,15 +6842,15 @@ VCO.Media.IFrame = VCO.Media.extend({
 
         // Create Dom element
         this._el.content_item = VCO.Dom.create("div", "vco-media-item vco-media-iframe", this._el.content);
-
         // Get Media ID
         this.media_id = this.data.url;
-
+        
         // API URL
         api_url = this.media_id;
-
+        
         // API Call
         this._el.content_item.innerHTML = api_url;
+        this._el.content_item.style = {};
 
         // After Loaded
         this.onLoaded();
@@ -8007,15 +8007,15 @@ VCO.Slide = VCO.Class.extend({
 
         // Add to DOM
         if (!this.has.text && !this.has.headline && this.has.media) {
-            this._el.container.className += ' vco-slide-media-only';
             this._media.addTo(this._el.content);
+            this._el.container.className += ' vco-slide-media-only';
         } else if (this.has.headline && this.has.media && !this.has.text) {
             this._el.container.className += ' vco-slide-media-only';
-            this._text.addTo(this._el.content);
             this._media.addTo(this._el.content);
+            this._text.addTo(this._el.content);
         } else if (this.has.text && this.has.media) {
-            this._media.addTo(this._el.content);
             this._text.addTo(this._el.content);
+            this._media.addTo(this._el.content);
         } else if (this.has.text || this.has.headline) {
             this._el.container.className += ' vco-slide-text-only';
             this._text.addTo(this._el.content);
@@ -13481,7 +13481,7 @@ L.Path = L.Class.extend({
         // set it so that SVG element doesn't exceed 1280px (vectors flicker on dragend if it is)
         CLIP_PADDING: (function() {
             var max = L.Browser.mobile ? 1280 : 2000,
-                target = (max / Math.max(window.outerWidth, window.outerHeight) - 1) / 2;
+                target = (max / Math.max(window.outerWidth, window.outerHeight) - 1) * 0.2;
             return Math.max(0, Math.min(0.5, target));
         })()
     },
@@ -17855,7 +17855,7 @@ VCO.MapMarker.Leaflet = VCO.MapMarker.extend({
 
     _customIconAnchor: function(size) {
         if (size) {
-            return [size[0] * 0.5, size[1]];
+            return [size[0] * 0.5, size[1] * 0.6];
         } else {
             return [24, 48];
         }

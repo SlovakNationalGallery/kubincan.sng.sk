@@ -1,194 +1,552 @@
 {
     "storymap": {
         "attribution": "",
-        "call_to_action": true,
         "language": "sk",
+        "call_to_action": true,
         "zoomify": false,
-        "slides": [{
-            "media": {
-                "url": "",
-                "caption": "",
-                "credit": ""
+        "slides": [
+            {
+                "media": {
+                    "url": "",
+                    "caption": "",
+                    "credit": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "background": {
+                    "url": "images/1928.jpg"
+                },
+                "text": {
+                    "headline": "Umelcova ťažká batožina",
+                    "text": "<p>Arnold Peter Weisz-Kubínčan bol unikátnym zjavom slovenskej výtvarnej moderny. Žil v&nbsp;období dvoch veľkých vojen a&nbsp;na&nbsp;vlastnej koži pocítil rozpad ľudských spoločenstiev.</br><p>Tvorbe zasvätil celé svoje ja, aj&nbsp;za&nbsp;cenu hladu, samoty a&nbsp;duševných útrap. Útočisko nachádzal v&nbsp;prírode, ktorá mu prinášala nadpozemské zážitky a&nbsp;spojenie s vyššou mocou. Aj&nbsp;keď pochádzal z&nbsp;Pruska, slovenskú krajinu prijal za&nbsp;svoju a&nbsp;miloval ju, až kým ho nepripravila o&nbsp;život.</p><p>Príbeh Arnolda Petra Weisza-Kubínčana je o&nbsp;neustálom putovaní, hľadaní a&nbsp;skúmaní vlastného vnútra. Umelcova tvár na&nbsp;nespočetných autoportrétoch ukazuje neľahkú cestu plnú pochybností a&nbsp;strádania. Aj&nbsp;keď bol Kubínčan skôr samotárom, ľudská blízkosť, vzájomná pomoc a&nbsp;inšpirácia sú pre jeho príbeh kľúčové.</p>"
+                },
+                "date": "",
+                "type": "overview"
             },
-            "location": {
-                "line": true
+            {
+                "date": "",
+                "media": {
+                    "url": "images/SVK_SNG.O_4465.jpeg",
+                    "caption": "Arnold Peter Weisz-Kubínčan – Čítajúca starena (portrét matky), okolo 1925",
+                    "credit": "",
+                    "link": "https://www.webumenia.sk/dielo/SVK:SNG.O_4465"
+                },
+                "location": {
+                    "iconSize": [48, 48],
+                    "lon": 19.489746093749996,
+                    "zoom": 9,
+                    "lat": 49.278556648075146,
+                    "line": true,
+                    "icon": "images/Kufor-2.png",
+                    "use_custom_marker": true
+                },
+                "background": {
+                    "url": "images/oravsky_hrad.jpg"
+                },
+                "text": {
+                    "headline": "Orava, okolo 1900",
+                    "text": "<p>Arnold pochádza zo&nbsp;štvordetnej židovskej rodiny zubného technika Samuela Weisza. Keď má Arnold päť rokov, rodina sa sťahuje z&nbsp;pruského mesta Usch, kde sa narodil, do&nbsp;Dolného Kubína.</p><p>Majú tu zrejme známych, v&nbsp;meste žije viacero rodín s priezviskom Weisz. Weiszovci patria medzi chudobnejších obyvateľov, žijú iba z&nbsp;otcovho dôchodku. Otec sa uchádza o&nbsp;miesto člena zastupiteľstva obce, nemá však žiaden majetok a&nbsp;preto jeho žiadosti úrad opakovane zamieta.</p><p>Arnold navštevuje meštiansku školu v&nbsp;Dolnom Kubíne. K Orave si vytvára vrúcny vzťah a&nbsp;považuje ju za&nbsp;svoje rodisko. Vo&nbsp;svojej tvorbe sa k nej bude neustále vracať.</p><p><i>„Orava zo&nbsp;mňa spravila maliara.“</i></p>"
+                }
             },
-            "background": {
-                "url": "images/1928.jpg"
+            {
+                "date": "",
+                "media": {
+                    "url": "images/SVK_OGD.G_52.jpeg",
+                    "caption": "Arnold Peter Weisz-Kubínčan – Autoportrét, okolo 1922",
+                    "credit": "",
+                    "link":"https://www.webumenia.sk/dielo/SVK:OGD.G_52"
+                },
+                "location": {
+                    "iconSize": [48, 48],
+                    "lon": 19.050979614257812,
+                    "zoom": 10,
+                    "lat": 47.47219873409285,
+                    "line": true,
+                    "icon": "images/easel-2.png",
+                    "use_custom_marker": true
+                },
+                "background": {
+                    "url": "images/SVK_GNZ.G_1718-orez.jpg"
+                },
+                "text": {
+                    "headline": "Budapešť, 1913 – 1917",
+                    "text": "<p>Na jeseň roku 1913 Arnold Weisz odchádza do&nbsp;Budapešti. Jeho rodným jazykom je nemčina, dorozumie sa však aj&nbsp;po maďarsky a&nbsp;slovensky.</p><p>Na umeleckopriemyselnej škole študuje dekoratívne sochárstvo a&nbsp;stretáva sa prvýkrát s európskym umením. Spoznáva tvorbu nemeckých a&nbsp;rakúskych umelcov ako Lovis Corinth či Käthe Kollwitz. Oslovuje ho najmä nový výtvarný smer expresionizmus, ktorý poníma svet subjektívne a&nbsp;premieta ho do&nbsp;obrazu cez pocity a&nbsp;nálady umelca. Tvorba Edvarda Muncha, Jamesa Ensora, ale aj&nbsp;Vincenta Van Gogha ukazujú Arnoldovi nové možnosti, ako vyjadriť svoje vnútorné prežívanie.</p><p>Školu prestáva navštevovať v&nbsp;januári 1917 a&nbsp;čoskoro narukuje do&nbsp;rakúsko-uhorskej armády. Prvá svetová vojna zúri už tretí rok.</p>"
+                }
             },
-            "text": {
-                "headline": "Kufor z Ameriky",
-                "text": "Ke\u010f pri pr\u00edle\u017eitosti prvej samostatnej v\u00fdstavy Arnolda Petra Weisza-Kub\u00edn\u010dana  v Tur\u010dianskom sv. Martine v roku 1935 N\u00e1rodnie noviny predpovedali autorovi s\u013eubn\u00fa umeleck\u00fa bud\u00facnos\u0165 , nikto nemohol tu\u0161i\u0165, \u017ee bude tak\u00e1 kr\u00e1tka, n\u00e1silne preru\u0161en\u00e1 a nedopovedan\u00e1.  Kub\u00edn\u010danov \u013eudsk\u00fd a umeleck\u00fd pr\u00edbeh sa uzavrel pred\u010dasne, a to za dramatick\u00fdch okolnost\u00ed, ktor\u00e9 ur\u010dili aj \u010fal\u0161\u00ed osud jeho umeleckej pozostalosti."
+            {
+                "date": "",
+                "media": {
+                    "url": "",
+                    "caption": "",
+                    "credit": ""
+                },
+                "location": {
+                    "iconSize": [48, 48],
+                    "lon": 12.456436157226562,
+                    "zoom": 9,
+                    "lat": 45.69994529846052,
+                    "line": true,
+                    "icon": "images/Kufor-2.png",
+                    "use_custom_marker": true
+                },
+                "background": {
+                    "url": "images/SVK_SNG.O_5560-orez.jpg"
+                },
+                "text": {
+                    "headline": "Prvá svetová vojna, 1917",
+                    "text": "<p>Veľká vojna devastuje európsky kontinent a&nbsp;vytrháva korene starého sveta veľkých monarchií. Tisíce vojakov zbytočne zomierajú v&nbsp;zákopových bitkách, ktorých zmysel a&nbsp;výsledok sú im sotva zrozumiteľné. </p><p>Arnold Weisz sa podľa tradovaných svedectiev ocitá s peším plukom v&nbsp;Juhoslávii a&nbsp;neskôr na&nbsp;talianskom fronte medzi Alpami a&nbsp;Benátkami. O&nbsp;svojich vojnových rokoch nezanecháva žiaden záznam. Nepíše si denník a&nbsp;ani neskôr sa k svojim zážitkom v&nbsp;tvorbe nevracia.</p>"
+                }
             },
-            "date": "",
-            "type": "overview"
-        }, {
-            "date": "",
-            "media": {
-                "url": "images/mater.jpg",
-                "caption": "Arnold Peter Weisz-Kub\u00edn\u010dan \u2013 Moja matka",
-                "credit": ""
+            {
+                "date": "",
+                "media": {
+                    "url": "images/SVK_SNG.K_8858-a-b.jpeg",
+                    "caption": "Arnold Peter Weisz-Kubínčan – Náčrt ženského portrétu (Zorka Kahan), okolo 1918",
+                    "credit": "",
+                    "link": "https://www.webumenia.sk/dielo/SVK:SNG.K_8858-a-b"
+                },
+                "location": {
+                    "iconSize": [48, 48],
+                    "lon": 22.300872802734375,
+                    "zoom": 10,
+                    "lat": 48.570246572767076,
+                    "line": true,
+                    "icon": "images/Kufor-2.png",
+                    "use_custom_marker": true
+                },
+                "background": {
+                    "url": "images/SNG.UP-DK_2149-orez.jpg"
+                },
+                "text": {
+                    "headline": "Užhorod, 1917 – 1978",
+                    "text": "<p>Niekedy v&nbsp;povojnových rokoch navštevuje Arnold Weisz Podkarpatskú Rus a&nbsp;okolie Užhorodu. Spoznáva tu židovské dievča Zorku Kahan a&nbsp;zvečňuje jej podobu na&nbsp;jednoduchej portrétnej kresbe.</p><p>Zorka vyrastá v&nbsp;ťažkých podmienkach chudoby a&nbsp;etnického útlaku. Takmer o&nbsp;dekádu starší Arnold je pre ňu zvláštnym zjavom. Kontrastuje s ľuďmi, ktorých Zorka pozná z&nbsp;bežného života a&nbsp;jeho rozhľadenosť a&nbsp;nezvyčajné názory sú ako závan čerstvého vzduchu. Osud ich životy opäť spojí až o&nbsp;mnoho rokov neskôr.</p>"
+                }
             },
-            "location": {
-                "iconSize": [48, 48],
-                "lon": 19.489746093749996,
-                "zoom": 8,
-                "lat": 49.278556648075146,
-                "line": true,
-                "icon": "images/Kufor-2.png",
-                "use_custom_marker": true
+            {
+                "date": "",
+                "media": {
+                    "url": "images/SVK_SNG.K_9012.jpeg",
+                    "caption": "Arnold Peter Weisz-Kubínčan – Autoportrét s paletou, okolo 1926",
+                    "credit": "",
+                    "link":"https://www.webumenia.sk/dielo/SVK:SNG.K_9012"
+                },
+                "location": {
+                    "iconSize": [48, 48],
+                    "lon": 13.5406494140625,
+                    "zoom": 8,
+                    "lat": 52.506191342034576,
+                    "line": true,
+                    "icon": "images/easel-2.png",
+                    "use_custom_marker": true
+                },
+                "background": {
+                    "url": "images/vintage-the-golden-twenties-in-berlin-1920s-05.jpg"
+                },
+                "text": {
+                    "headline": "Berlín, 1920 – 1922",
+                    "text": "<p>Arnold to s umením myslí vážne. V&nbsp;Berlíne si chce dokončiť svoje výtvarné vzdelanie a&nbsp;možno si aj&nbsp;zvýšiť renomé. Žije tu jeho zámožný strýko Hugo Simon – bankár, mecén a&nbsp;zberateľ umenia, ktorý sa pozná s mnohými slávnymi umelcami. Arnold navštevuje súkromnú školu a&nbsp;zo&nbsp;sochárstva presedláva na&nbsp;maľbu, kresbu a&nbsp;grafiku. Aj&nbsp;vďaka strýkovi sa mu podarí vystavovať Vo&nbsp;Flechtheimovej galérii a&nbsp;u zberateľa Israela Ber Neumanna.</p><p>Roky strávené v&nbsp;Berlíne sú pre Arnolda smerodajné. Rozširuje si umelecké obzory a&nbsp;vníma tiež turbulentný kultúrny život metropoly. Opulentnosť 20. rokov sa tu prelína so sociálnym úpadkom povojnového Nemecka, rastúcou infláciou a&nbsp;zárodkami politického extrémizmu.</p><p>„Dychtive hltaly sme tam nové maliarske výboje, opájaly sa nimi, vzrušovaly nás zmeny maliarskych snáh, a&nbsp;to sú plodné roky môjho vývinu. Vsal som do&nbsp;seba všetko, čo v&nbsp;povojnovom maliarstve bolo podnetného.“</p>"
+                }
             },
-            "background": {
-                "url": "images/oravsky hrad.jpg"
+            {
+                "date": "",
+                "media": {
+                    "url": "images/SVK_SNG.O_4504.jpeg",
+                    "caption": "Arnold Peter Weisz-Kubínčan – Autoportrét, okolo 1927",
+                    "credit": "",
+                    "link": "https://www.webumenia.sk/dielo/SVK:SNG.O_4504"
+                },
+                "location": {
+                    "iconSize": [48, 48],
+                    "lon": 19.29917,
+                    "zoom": 12,
+                    "lat": 49.21167,
+                    "line": true,
+                    "icon": "images/Quill-Pen-2.png",
+                    "use_custom_marker": true
+                },
+                "background": {
+                    "url": "images/Dolny-Kubin.jpg"
+                },
+                "text": {
+                    "headline": "Dolný kubín, 1923",
+                    "text": "<p>Arnolda to ťahá späť na&nbsp;Oravu, chce sa tu usadiť. V&nbsp;roku 1923 sa vracia do&nbsp;Dolného Kubína a&nbsp;z&nbsp;veľkomesta si neprináša slávu ani bohatstvo. Býva v&nbsp;zadnej izbe vetchej drevenice, ktorá je zároveň jeho ateliérom. Napriek tomu, že živorí, oddáva sa naplno tvorbe a&nbsp;nemá žiaden iný zárobok. Jediné, na&nbsp;čom nešetrí, sú maliarske potreby.</p><p>Ošúchaný odev a&nbsp;vychudnutý asketický zjav odrážajú jeho skromnú a&nbsp;neurotickú povahu. Trápi ho nízka sebadôvera a&nbsp;nepochopenie jeho umenia okolím. Svoje neľahké rozpoloženie premieta do&nbsp;úprimných autoportrétov mapujúcich najmä jeho ťažšie životné obdobia. Okrem toho sa sústredí na&nbsp;motívy oravskej prírody, vrchov, dedín a&nbsp;ich obyvateľov.</p><p>Arnold žije samotársky, no predsa má niekoľko priateľov. Zavše ho navštevuje redaktor Július Dzurek, v&nbsp;tvorivom smerovaní ho podporujú vrstovníci Fraňo Štefunko, Janko Alexy či Miloš Alexander Bazovský.</p><p><i>„Expresionizmus najlepšie vyjadruje psychózu dnešného človeka.“</i></p>"
+                }
             },
-            "text": {
-                "headline": "Orava, 1900",
-                "text": "Rodina Arnolda Weisza sa niekedy na prelome storo\u010d\u00ed pres\u00eddlila z Prusk\u00e9ho Uj\u015bcie do Uhorska, do Doln\u00e9ho Kub\u00edna \u2013 zrejme po naroden\u00ed najmlad\u0161ej dc\u00e9ry Vikt\u00f3rie. Orava sa pre mal\u00e9ho Arnolda stala miestom, ku ktor\u00e9mu si vybudoval siln\u00e9 emocion\u00e1lne puto, napokon, tento nezastieran\u00fd vz\u0165ah bol jedn\u00fdm z mot\u00edvov prijatia pr\u00eddomku Kub\u00edn\u010dan.<br><br>"
+            {
+                "date": "",
+                "media": {
+                    "url": "images/SVK_SNG.K_8706.jpeg",
+                    "caption": "Arnold Peter Weisz-Kubínčan – Ležiaca mladá žena, okolo 1930",
+                    "credit": "",
+                    "link":"https://www.webumenia.sk/dielo/SVK:SNG.K_8706"
+                },
+                "location": {
+                    "iconSize": [48, 48],
+                    "lon": 18.941802978515625,
+                    "zoom": 12,
+                    "lat": 49.08353590768416,
+                    "line": true,
+                    "icon": "images/Kufor-2.png",
+                    "use_custom_marker": true
+                },
+                "background": {
+                    "url": "images/SVK_OGD.O_316-orez.jpg"
+                },
+                "text": {
+                    "headline": "Martin, 1928",
+                    "text": "<p>Zorke Kahan zomiera otec a&nbsp;ona ostáva na&nbsp;Podkarpatskej Rusi sama. Rozhodne sa presťahovať do&nbsp;Martina za&nbsp;staršou sestrou Jolanou a&nbsp;pomáha jej starať sa o&nbsp;deti.</br>Zorka je vyučená šička, no namiesto práce v&nbsp;dielni alebo sobáša si chce založiť vlastný obchod. Postupne sa jej podarí otvoriť si v&nbsp;Martine cukráreň.</p>"
+                }
+            },
+            {
+                "date": "",
+                "media": {
+                    "url": "",
+                    "caption": "",
+                    "credit": ""
+                },
+                "location": {
+                    "iconSize": [48, 48],
+                    "lon": 19.29917,
+                    "zoom": 12,
+                    "lat": 49.21167,
+                    "line": true,
+                    "icon": "images/easel-2.png",
+                    "use_custom_marker": true
+                },
+                "background": {
+                    "url": "images/SVK_OGD.O_678-orez.jpg"
+                },
+                "text": {
+                    "headline": "Dolný Kubín, 1930",
+                    "text": "<p>Po takmer dekáde biedy a&nbsp;neúspechu sa Arnoldovi konečne začína dariť. Po&nbsp;drobných súkromných objednávkach dostáva cez Maticu slovenskú zadanie ilustrovať turistického sprievodcu po&nbsp;Orave. Arnold je ako lokálpatriot a&nbsp;znalec oravskej prírody ideálnym adeptom na&nbsp;zachytenie čara tohto regiónu.</p><p>Okrem maľovania žije Arnold poľovníctvom. So svojimi troma psami Paschom, Tyranom a&nbsp;Titom pravidelne vyráža do&nbsp;lesov loviť diviaky, jelene či líšky a&nbsp;dojmy z&nbsp;lovu potom zachytáva na&nbsp;papieri a&nbsp;na&nbsp;plátne. Fascinuje ho skrytý, pulzujúci život lesa. Čoraz divokejšie línie, ťahy a&nbsp;farby akoby chceli ukázať dýchajúci svet plný netušenej drámy a&nbsp;intenzívnych emócií.</p><p>Arnold rád kreslí zvieratá a&nbsp;vníma ich ako symboly. Jeho kone sú hravé, nespútané a&nbsp;slobodné, stelesňujú túžbu po&nbsp;rozlete. Obrazy lovu sa však postupom času stávajú agresívnejšími a&nbsp;menia sa na&nbsp;nerovný boj. Rastúca hrozba nacizmu a&nbsp;rasového prenasledovania robí štvanú zver z&nbsp;ľudských bytostí. Zlietajúce sa orly na&nbsp;tušovej kresbe naznačujú krvilačnosť a&nbsp;blížiace sa smrteľné nebezpečenstvo.</p>"
+                }
+            },
+            {
+                "date": "",
+                "media": {
+                    "url": "",
+                    "caption": "",
+                    "credit": ""
+                },
+                "location": {
+                    "iconSize": [48, 48],
+                    "lon": 18.912620544433594,
+                    "zoom": 12,
+                    "lat": 49.06441896121407,
+                    "line": true,
+                    "icon": "images/easel-2.png",
+                    "use_custom_marker": true
+                },
+                "background": {
+                    "url": "images/bazovsky-kubincan.jpg"
+                },
+                "text": {
+                    "headline": "Turčianský sv. Martin, 1934",
+                    "text": "<p>Miloš Bazovský a&nbsp;Janko Alexy naliehajú na&nbsp;Arnolda, aby sa za&nbsp;nimi prisťahoval do&nbsp;Martina. Noldi, ako ho volajú, tu bude mať lepšiu príležitosť uplatniť sa. Arnold sa sťahuje do&nbsp;podstrešnej izbičky na&nbsp;povale domu lekára Albína Holéczyho v&nbsp;Turčianskom Svätom Martine. Začína sa „zlaté obdobie“ jeho tvorby.</p><p>S Bazovským má Arnold príbuzný vzťah k slovenskej krajine a&nbsp;ľudu. Nesnaží sa domovinu idealizovať a&nbsp;vyzdvihovať jej folklórne tradície, ako to s úspechom robí Martin Benka. Ukazuje slovenský svet s celou jeho krásou, ale aj&nbsp;so starosťami a&nbsp;úskaliami každodenného života. Ťažká práca, chudoba, samota starcov a&nbsp;opustených, ale aj&nbsp;intímne chvíle v&nbsp;kruhu rodiny, to všetko zobrazuje úprimne a&nbsp;bez kompromisov. Obaja maliari akoby odkazovali na&nbsp;ľudskosť, presahujúcu hranice a&nbsp;národy.</p><p>Bazovského fotografie zo&nbsp;spoločných výprav za&nbsp;výtvarnými motívmi ukazujú zamysleného Arnolda obdivujúceho okolitú prírodu alebo obklopeného deťmi, ako maľuje priamo v&nbsp;plenéri.</p><p>Arnold sa dostáva medzi martinskú „bohému“. Napriek nedokonalej slovenčine je pútavým rozprávačom a&nbsp;vďaka  rozhľadu a&nbsp;dobrotivej povahe sa teší obľube svojich kolegov. S priateľmi Milanom Thomkom Mitrikovským či Andrejom Mrázom vedú po&nbsp;večeroch dlhé polemiky o&nbsp;živote a&nbsp;tvorbe. Janko Alexy ho nabáda prezentovať svoje diela a&nbsp;pomáha mu organizovať samostatné výstavy v&nbsp;Martine, Štubnianskych Tepliciach, Banskej Bystrici, Ružomberku a&nbsp;Žiline. Arnoldove nekonvenčné obrazy chce ale málokto kupovať, a&nbsp;preto si nemôže dovoliť plánovanú výstavu v&nbsp;Bratislave, nieto ešte vysnívanú cestu do&nbsp;Paríža. </p><p><i>„Verím v&nbsp;obecenstvo, ono obrazy potrebuje a&nbsp;vie ich aj&nbsp;správne chápať.“</i></p>"
+                }
+            },
+            {
+                "date": "",
+                "media": {
+                    "url": "images/SVK_SNG.O_4480.jpeg",
+                    "caption": "Arnold Peter Weisz-Kubínčan – Tvár muža, okolo 1937",
+                    "credit": "",
+                    "link": "https://www.webumenia.sk/dielo/SVK:SNG.O_4480"
+                },
+                "location": {
+                    "iconSize": [48, 48],
+                    "lon": 18.919143676757812,
+                    "zoom": 12,
+                    "lat": 49.029989917285235,
+                    "line": true,
+                    "icon": "images/Quill-Pen-2.png",
+                    "use_custom_marker": true
+                },
+                "background": {
+                    "url": "images/hajluj.jpg"
+                },
+                "text": {
+                    "headline": "Martin, 1939",
+                    "text": "<p>Blíži sa ďalšia veľká vojna. V&nbsp;Európe rastie napätie a&nbsp;čoraz odvážnejšie Nemecko postupne rozdrobuje Československú republiku. 14. marca 1939 vyhlasuje Snem Slovenskej krajiny vytvorenie samostatného slovenského štátu. Nová slovenská vláda sa stáva vazalom Tretej ríše a&nbsp;svoju krutú protižidovskú politiku pretavuje do&nbsp;reálnych zákonov.</p><p>Arnoldovi hrozí deportácia do&nbsp;pracovného tábora. V&nbsp;zúfalej snahe o&nbsp;záchranu sa dáva pokrstiť. Prijíma krstné meno Peter a&nbsp;začína sa podpisovať Peter Kubínčan. Krstným otcom je jeho dlhoročný priateľ František Štefunko. Arnoldovi sa podarí vyhnúť prvej vlne deportácií, aj&nbsp;keď je na&nbsp;všetkých zoznamoch židovského obyvateľstva. Je možné, že dostáva vďaka známostiam výnimku. V&nbsp;jeho tvorbe sa objavujú kresťanské motívy, najmä pieta.</p><p>Sen Zorky Kahan o&nbsp;vlastnej cukrárni sa po&nbsp;dvoch rokoch rúca. Židia majú po&nbsp;novom zákaz prevádzkovať obchody. Od&nbsp;tohto momentu nemôže Zorka čokoládu ani cítiť – sladká vôňa jej až do&nbsp;konca života pripomína nespravodlivosť.</p>"
+                }
+            },
+            {
+                "date": "",
+                "media": {
+                    "url": "images/SVK_SNG.K_8711.jpeg",
+                    "caption": "Arnold Peter Weisz-Kubínčan – Hlava muža (autoportrét), okolo 1940",
+                    "credit": "",
+                    "link":"https://www.webumenia.sk/dielo/SVK:SNG.K_8711"
+                },
+                "location": {
+                    "iconSize": [48, 48],
+                    "lon": 18.819494247436523,
+                    "zoom": 12,
+                    "lat": 49.09607038073024,
+                    "line": true,
+                    "icon": "images/Quill-Pen-2.png",
+                    "use_custom_marker": true
+                },
+                "background": {
+                    "url": "images/SVK_SNG.O_4483-orez.jpg"
+                },
+                "text": {
+                    "headline": "Martinské hole, 1942",
+                    "text": "<p>V júli 1942 začínajú najväčšie deportácie. Slovenská vláda platí Nemcom za&nbsp;to, že Židov odvážajú za&nbsp;hranice, tajne ich zotročujú a&nbsp;vraždia.</p><p>Arnoldovi už nepomáha ani nová identita, musí sa pred Nemcami skrývať. Podľa neskorších svedectiev mu pomáhajú mnohí ľudia Jedným z&nbsp;jeho úkrytov je ateliér v&nbsp;tzv. Tatra domoch na&nbsp;Kuzmányho ulici v&nbsp;Martine. Tu&nbsp;vznikajú Arnoldove posledné zachované diela a&nbsp;čoraz pochmúrnejšie autoportréty.</p><p>Niekedy v&nbsp;tomto čase Arnold opäť stretáva Zorku Kahan, už ako dospelú ženu. Spája ich spoločný smutný osud a&nbsp;vzniká medzi nimi silné puto. Arnold sa stáva jej prvou láskou. Po&nbsp;tom, čo sú obe ich rodiny deportované do&nbsp;koncentračných táborov, rozhodnú sa Arnold a&nbsp;Zorka utiecť do&nbsp;hôr.</p><p>Dlhé mesiace sa ukrývajú na&nbsp;Martinských holiach. Pred smrťou hladom ich zachraňuje rodina s deťmi, ktorá sa s nimi delí o&nbsp;to málo jedla, ktoré má. Jedného dňa však Arnold a&nbsp;Zorka nachádzajú celú rodinu obesenú na&nbsp;strome. Takto trestajú nacisti ľudí, čo pomáhajú Židom a&nbsp;povstalcom. Podobenstvo s krvilačnými orlicami sa stáva skutočnosťou.</p>"
+                }
+            },
+            {
+                "date": "",
+                "media": {
+                    "url": "images/SVK_SNG.K_9004.jpeg",
+                    "caption": "Arnold Peter Weisz-Kubínčan – Autoportrét, po 1940",
+                    "credit": "",
+                    "link":"https://www.webumenia.sk/dielo/SVK:SNG.K_9004"
+                },
+                "location": {
+                    "iconSize": [48, 48],
+                    "lon": 14.500154,
+                    "zoom": 9,
+                    "lat": 48.257164,
+                    "line": true,
+                    "icon": "images/Quill-Pen-2.png",
+                    "use_custom_marker": true
+                },
+                "background": {
+                    "url": "images/koncentrak.jpg"
+                },
+                "text": {
+                    "headline": "Saschenhausen, 1944",
+                    "text": "<p>Arnold so Zorkou sa vyziabnutí na&nbsp;kosť vracajú do&nbsp;civilizácie a&nbsp;vzdávajú sa. Arnold Zorke prezrádza miesto, kam schoval svoju jedinú pozostalosť.</p><p><i>„Neviem, kam ideme, ale ja sa už odtiaľ nevrátim. Ty sa určite vrátiš, a&nbsp;preto sú všetky tie ukryté maľby tvoje.“</i></p><p>Krátky spoločný príbeh Arnolda a&nbsp;Zorky ukončuje nacistický transport. Arnold je deportovaný do&nbsp;Osvienčimu, odkiaľ má pokračovať ďalej na&nbsp;západ do&nbsp;Sachsenhausenu. Naposledy ho tu stretáva maliar Leo Haas, následne sa jeho stopa stráca.</p><p>Ak Arnold aj&nbsp;prežil krutú cestu vlakom, zrejme ho na&nbsp;smrť odsúdila zdravotná prehliadka a&nbsp;jeho podvyživený zjav, nevhodný na&nbsp;otrockú prácu. Arnold Peter Weisz-Kubínčan tak pravdepodobne zomiera sám a&nbsp;ďaleko od&nbsp;domova spolu s tisíckami ďalších vykorenených a&nbsp;zbedačených ľudských bytostí. O&nbsp;jeho konečnom osude sa nezachoval žiaden záznam.</p>"
+                }
+            },
+            {
+                "date": "",
+                "media": {
+                    "url": "",
+                    "caption": "",
+                    "credit": ""
+                },
+                "location": {
+                    "iconSize": [48, 48],
+                    "lon": 18.90026092529297,
+                    "zoom": 12,
+                    "lat": 49.058344979789126,
+                    "line": true,
+                    "icon": "images/Kufor-2.png",
+                    "use_custom_marker": true
+                },
+                "background": {
+                    "url": "images/SVK_SNG.K_2677.jpg"
+                },
+                "text": {
+                    "headline": "Spandau, 1944",
+                    "text": "<p>Zorka sa najskôr dostáva do&nbsp;ženského tábora v&nbsp;Ravensbrücku. Vďaka znalosti nemčiny sa jej zrejme darí vyhnúť najťažším manuálnym prácam. Pre byrokratickú chybu ju následne presúvajú do&nbsp;tábora Spandau pri&nbsp;Berlíne. S príchodom frontu nastáva čoskoro v&nbsp;Ravensbrücku masové vyvražďovanie.</p><p>V Spandau Zorka prežíva až do&nbsp;konca vojny. Spomedzi svojej najbližšej rodiny ostáva nažive jediná.</p>"
+                }
+            },
+            {
+                "date": "",
+                "media": {
+                    "url": "",
+                    "caption": "",
+                    "credit": ""
+                },
+                "location": {
+                    "iconSize": [48, 48],
+                    "lon": 18.90026092529297,
+                    "zoom": 12,
+                    "lat": 49.058344979789126,
+                    "line": true,
+                    "icon": "images/Kufor-2.png",
+                    "use_custom_marker": true
+                },
+                "background": {
+                    "url": "images/SVK_SNG.K_4582.jpg"
+                },
+                "text": {
+                    "headline": "Martin, 1945 – 1946",
+                    "text": "<p>Zorka sa vracia do&nbsp;Martina a&nbsp;pátra po&nbsp;svojej rodine a&nbsp;stratenej láske. Skúša Červený kríž, no neúspešne. V&nbsp;podkroví domu na&nbsp;Kuzmányho ulici nachádza nepoškodený kufor plný Arnoldových kresieb, skicárov a&nbsp;malieb. Je presvedčená, že sú to jeho jediné diela, ktoré prežili vojnu. V&nbsp;Martine čaká Zorka asi rok, no žiadne správy o&nbsp;preživších neprichádzajú.</p><p>Počas tohto chaotického roku spoznáva Zorka v&nbsp;Žiline o&nbsp;17 rokov staršieho doktora Ringa. Jeho manželka aj&nbsp;dcéra zahynuli v&nbsp;koncentračnom tábore. Ľudia, ktorí prežili svoje rodiny, majú tendenciu spájať sa. Zorka a&nbsp;Ring sa zosobášia a&nbsp;odchádzajú spolu do&nbsp;Brna.</p><p>Mnohé diela Arnolda Petra Weisza-Kubínčana sa v&nbsp;povojnovom chaose strácajú alebo sú zničené. Ich autor upadá do&nbsp;zabudnutia. Výnimkou je iba pietna spomienka Arnoldovho priateľa Fraňa Štefunka, publikovaná v&nbsp;časopise Slovenské pohľady.</p>"
+                }
+            },
+            {
+                "date": "images/SVK_GPB.G_577.jpeg",
+                "media": {
+                    "url": "",
+                    "caption": "Koloman Sokol – Vysťahovalci, 1930",
+                    "credit": "",
+                    "link":"https://www.webumenia.sk/dielo/SVK:GPB.G_577"
+                },
+                "location": {
+                    "iconSize": [48, 48],
+                    "lon": -73.98674011230469,
+                    "zoom": 11,
+                    "lat": 40.74309523218185,
+                    "line": true,
+                    "icon": "images/Kufor-2.png",
+                    "use_custom_marker": true
+                },
+                "background": {
+                    "url": "images/SVK_SNG.G_10225-orez.jpg"
+                },
+                "text": {
+                    "headline": "New York, 1948",
+                    "text": "<p>Komunistický februárový prevrat uvrhuje krajinu opäť do&nbsp;neistoty. Dr. Ring už nechce trpieť v&nbsp;ďalšom totalitnom režime a&nbsp;spolu so Zorkou sa rozhodnú nadobro opustiť Československo. Cez Hamburg odchádzajú do&nbsp;Ameriky. Na&nbsp;palubu lode si môže každý vziať iba jeden kus batožiny. Zorka si berie Arnoldov kufor a&nbsp;bezpečne ho prepraví až za&nbsp;oceán.</p>"
+                }
+            },
+            {
+                "date": "",
+                "media": {
+                    "url": "images/SVK_SNG.O_4448.jpeg",
+                    "caption": "Arnold Peter Weisz-Kubínčan – Kôň, 1937",
+                    "credit": "",
+                    "link":"https://www.webumenia.sk/dielo/SVK:SNG.O_4448"
+                },
+                "location": {
+                    "iconSize": [48, 48],
+                    "lon": 17.108159065246582,
+                    "zoom": 16,
+                    "lat": 48.14017469809891,
+                    "line": true,
+                    "icon": "images/easel-2.png",
+                    "use_custom_marker": true
+                },
+                "background": {
+                    "url": "images/vodne-kasarne.jpg"
+                },
+                "text": {
+                    "headline": "Bratislava, 1955",
+                    "text": "<p>Fraňo Štefunko na&nbsp;Arnolda nezabúda. Na&nbsp;jeho podnet dáva Matica slovenská dokopy Kubínčanove diela, ktoré predsa len prežili vojnu a&nbsp;deponuje ich v&nbsp;Slovenskej národnej galérii.</p><p>Skupina 60 olejomalieb a&nbsp;400 kresieb na&nbsp;papieri sa postupne ukazuje ako vôbec najzásadnejšia akvizícia umelcovho diela. Obsahuje všetky kľúčové autorove motívy a&nbsp;dnes už ikonické maľby. Je medzi nimi aj&nbsp;najznámejší Kubínčanov obraz Kôň – symbol jednoty s prírodou a&nbsp;najmä slobody, ktorá jeho tvorcovi nebola súdená.</p>"
+                }
+            },
+            {
+                "date": "",
+                "media": {
+                    "url": "",
+                    "caption": "",
+                    "credit": ""
+                },
+                "location": {
+                    "iconSize": [48, 48],
+                    "lon": -73.92931938171387,
+                    "zoom": 14,
+                    "lat": 42.81723553774724,
+                    "line": true,
+                    "icon": "images/easel-2.png",
+                    "use_custom_marker": true
+                },
+                "background": {
+                    "url": "images/old-chapel-union-college-cb.jpg"
+                },
+                "text": {
+                    "headline": "Schenectady, Albany, USA, 1961",
+                    "text": "<p>Zorka s manželom a&nbsp;dcérou žijú najskôr na&nbsp;Manhattane, po&nbsp;niekoľkých rokoch sa usadia v&nbsp;meste Schenectady v&nbsp;štáte New York. Kufor s Arnoldovou pozostalosťou má Zorka stále pri&nbsp;sebe. Jeho diela ukazuje kurátorovi Wayneovi Nowackovi, ktorý sa rozhodne ich vystaviť v&nbsp;kaplnke miestnej univerzity Union College.</p><p>Prvá posmrtná výstava Arnolda Petra Weisza-Kubínčana sa tak koná v&nbsp;Spojených štátoch. Kurátor dáva Kubínčanovu tvorbu do&nbsp;spojitosti s Oskarom Kokoschkom, Marcom Chagallom či Emilom Noldem, no tvrdí, že si zachováva svoj „silný štýl, vyjadrujúci autorov tragický a&nbsp;osamelý temperament“. Diela z&nbsp;výstavy sú dodnes zachované v&nbsp;pôvodných rámoch.</p>"
+                }
+            },
+            {
+                "date": "",
+                "media": {
+                    "url": "images/SVK_SNG.O_4481.jpeg",
+                    "caption": "Arnold Peter Weisz-Kubínčan – Utekajúci poľovník s puškou, 1935",
+                    "credit": "",
+                    "link":"https://www.webumenia.sk/dielo/SVK:SNG.O_4481"
+                },
+                "location": {
+                    "iconSize": [48, 48],
+                    "lon": 17.10917830467224,
+                    "zoom": 18,
+                    "lat": 48.14004940731036,
+                    "line": true,
+                    "icon": "images/easel-2.png",
+                    "use_custom_marker": true
+                },
+                "background": {
+                    "url": "images/vystava-1965-plagat.jpg"
+                },
+                "text": {
+                    "headline": "Bratislava, 1965",
+                    "text": "<p>Na Slovensku organizuje prvú samostatnú výstavu Kubínčanových diel Slovenská národná galéria. Kurátorka Silvia Horváthová vyberá 146 diel, z&nbsp;toho 13 olejomalieb, 132 kresieb a&nbsp;jednu grafiku. Pochádzajú zo&nbsp;zbierok a&nbsp;deponátov SNG, od&nbsp;Matice slovenskej a&nbsp;zo&nbsp;súkromných majetkov. Počas 70. a&nbsp;80. rokov sa dve samostatné výstavy konajú aj&nbsp;v&nbsp;Oravskej galérii v&nbsp;Dolnom Kubíne.</p>"
+                }
+            },
+            {
+                "date": "",
+                "media": {
+                    "url": "images/SVK_SNG.O_847.jpeg",
+                    "caption": "Arnold Peter Weisz-Kubínčan – Pieta, 1939 - 1940",
+                    "credit": "",
+                    "link":"https://www.webumenia.sk/dielo/SVK:SNG.O_847"
+                },
+                "location": {
+                    "iconSize": [48, 48],
+                    "lon": -73.93758058547972,
+                    "zoom": 14,
+                    "lat": 42.80709830895021,
+                    "line": true,
+                    "icon": "images/Quill-Pen-2.png",
+                    "use_custom_marker": true
+                },
+                "background": {
+                    "url": "images/schenectady-1970-1.jpg"
+                },
+                "text": {
+                    "headline": "Schenectady, USA, 1978",
+                    "text": "<p>Zorka Kahan žije v&nbsp;Spojených štátoch pokojný život spolu so svojou dcérou Katarínou a&nbsp;jej manželom Georgeom Curtisom. Miluje umenie, venuje sa keramickej tvorbe, maľuje olejom aj&nbsp;akvarelom.</p><p>Zomiera prirodzenou smrťou v&nbsp;roku 1978.</p>"
+                }
+            },
+            {
+                "date": "",
+                "media": {
+                    "url": "",
+                    "caption": "",
+                    "credit": ""
+                },
+                "location": {
+                    "iconSize": [48, 48],
+                    "lon": 17.11472511291504,
+                    "zoom": 14,
+                    "lat": 48.14908029984749,
+                    "line": true,
+                    "icon": "images/Quill-Pen-2.png",
+                    "use_custom_marker": true
+                },
+                "background": {
+                    "url": "images/kufor-orez.jpg"
+                },
+                "text": {
+                    "headline": "Bratislava, 2017 – 2019",
+                    "text": "<p>Katarína Curtis objavuje na&nbsp;internete informácie o&nbsp;Arnoldovi Petrovi Weiszovi-Kubínčanovi a&nbsp;zisťuje, že viaceré jeho diela prežili vojnu a&nbsp;ocitli sa v&nbsp;galerijných zbierkach. Katarína kontaktuje Slovenskú národnú galériu s návrhom na&nbsp;akvizíciu. Chce, aby sa autorova pozostalosť vrátila na&nbsp;Slovensko.</p><p>Kurátorka Lucia Gregorová-Stach dvakrát navštívi rodinu Curtisovcov v&nbsp;USA. Fascinujúci príbeh kufra zásadne mení dovtedy známy pohľad na&nbsp;umelcov osud. Strastiplná púť umelcovej „batožiny“ sa po&nbsp;desaťročiach končí v&nbsp;zbierke SNG.</p>"
+                }
+            },
+            {
+                "date": "",
+                "media": {
+                    "url": "",
+                    "caption": "",
+                    "credit": ""
+                },
+                "location": {
+                    "iconSize": [48, 48],
+                    "lon": 17.109038829803467,
+                    "zoom": 14,
+                    "lat": 48.13997423269043,
+                    "line": true,
+                    "icon": "images/Kufor-2.png",
+                    "use_custom_marker": true
+                },
+                "background": {
+                    "url": "images/kubincan cumi.jpg"
+                },
+                "text": {
+                    "headline": "Záver",
+                    "text": "<p>Znovuobjavenie Kubínčanovej „putujúcej“ pozostalosti prináša spolu so silným príbehom aj&nbsp;nové poznatky o&nbsp;rozsahu, povahe a&nbsp;kontexte jeho tvorby. Výstava v&nbsp;SNG s názvom <a href='https://www.sng.sk/sk/vystavy/2052_umelcova-tazka-batozina-arnold-peter-weisz-kubincan-1898-1945'>Umelcova (ťažká) batožina</a> je zameraná najmä na&nbsp;diela z&nbsp;kufra, sústredí sa na&nbsp;Kubínčanovo tvorivé rozmýšľanie a&nbsp;jeho unikátny kresbový rukopis. Ukazuje expresionistu európskej dôležitosti, ktorý napriek svojmu predčasne ukončenému životu priniesol do&nbsp;slovenského umenia závan medzinárodného umeleckého myslenia.</p><p>Osud tvorby Arnolda Petra Weisza-Kubínčana je dôkazom, že dejiny umenia nie sú iba o&nbsp;artefaktoch a&nbsp;veľkých výtvarných hnutiach. V&nbsp;časoch, keď ideológiou zmietaná spoločnosť požiera svojich najlepších ľudí a&nbsp;jednotlivci musia suplovať úlohy inštitúcií, dokáže aj&nbsp;krátke stretnutie či silné medziľudské puto zmeniť veľa.</p><p>Arnold Peter Weisz-Kubínčan bol človekom mnohých identít, ktorý strávil väčšinu života na&nbsp;okraji spoločnosti a&nbsp;zasvätil ho snahe zanechať po&nbsp;sebe umeleckú stopu. Kubínčanovo vizionárstvo, nomádstvo a&nbsp;samotárska melanchólia podmienili jeho unikátny prejav, no bola to najmä láska a&nbsp;priateľstvá, ktoré umožnili, aby odkaz umelca pretrval v&nbsp;ľudskej pamäti.</p><br/><p>Viac než 400 diel Arnolda Petra-Weisza Kubínčana si môžeš pozrieť a stiahnuť vo vysokom rozlíšení na <a href='https://www.webumenia.sk/autor/11709'>[Webe umenia]</a>.</p>"
+                }
             }
-        }, {
-            "date": "",
-            "media": {
-                "url": "images/1926.jpg",
-                "caption": "Arnold Peter Weisz-Kub\u00edn\u010dan \u2013 Autoportr\u00e9t s paletou, 1926",
-                "credit": ""
-            },
-            "location": {
-                "iconSize": [48, 48],
-                "lon": 13.304443359375,
-                "zoom": 8,
-                "lat": 52.43926935464697,
-                "line": true,
-                "icon": "images/Quill-Pen-2.png",
-                "use_custom_marker": true
-            },
-            "background": {
-                "url": "images/vintage-the-golden-twenties-in-berlin-1920s-05.jpg"
-            },
-            "text": {
-                "headline": "Berl\u00edn, 1920",
-                "text": "Za\u010diatkom dvadsiatych rokov odcestoval Weisz do Berl\u00edna, kde zam\u00fd\u0161\u013eal \u201esvoju soch\u00e1rsku akad\u00e9miu skon\u010di\u0165\u201c, ako uv\u00e1dza v \u017eiadosti o pas z marca 1920. V Berl\u00edne str\u00e1vil nieko\u013eko rokov, soch\u00e1rstvo v\u0161ak nemalo by\u0165 jeho osudom...za\u010dal sa orientova\u0165 v\u00fdlu\u010dne na ma\u013ebu, kresbu a grafiku. Zrejme nav\u0161tevoval s\u00fakromn\u00fa \u0161kolu alebo bral s\u00fakromn\u00e9 hodiny. B\u00farliv\u00e1, dynamick\u00e1 atmosf\u00e9ra povojnov\u00e9ho Berl\u00edna mlad\u00e9ho umelca z\u00e1sadne a natrvalo poznamenala, ako s\u00e1m hovoril, \u201evsal do seba v\u0161etko, \u010do v povojnovom maliarstve bolo podnetn\u00e9ho\u201c, najm\u00e4 v\u0161ak trad\u00edciu a silu nemeck\u00e9ho expresionizmu, ktor\u00fd prirodzene kore\u0161pondoval s jeho osobnos\u0165ou.<br>"
-            }
-        }, {
-            "date": "",
-            "media": {
-                "url": "images/1927.jpg",
-                "caption": "Arnold Peter Weisz-Kub\u00edn\u010dan \u2013 Autoportr\u00e9t, okolo 1927",
-                "credit": ""
-            },
-            "location": {
-                "iconSize": [48, 48],
-                "lon": 19.29917,
-                "zoom": 12,
-                "lat": 49.21167,
-                "line": true,
-                "icon": "images/Quill-Pen-2.png",
-                "use_custom_marker": true
-            },
-            "background": {
-                "url": "images/Dolny-Kubin.jpg"
-            },
-            "text": {
-                "headline": "Doln\u00fd Kub\u00edn",
-                "text": "Pravdepodobne v roku 1923 sa Arnold Weisz vr\u00e1til na Slovensko, do Doln\u00e9ho Kub\u00edna, kde str\u00e1vil nasleduj\u00facich desa\u0165 rokov. Weisz bol, usudzuj\u00fac zo spomienok priate\u013eov a s\u00fa\u010dasn\u00edkov, idealistickou, skromnou a \u2013 nielen v\u00fdzorom \u2013 a\u017e asketickou osobnos\u0165ou. Bol v\u0161ak z\u00e1rove\u0148 osobnos\u0165ou zlo\u017eitou, jeho ment\u00e1lne&nbsp; nastavenie skr\u00fdvalo mnoho kontrastov a protire\u010den\u00ed.<br>"
-            }
-        }, {
-            "date": "",
-            "media": {
-                "url": "images/1937.jpg",
-                "caption": "Arnold Peter Weisz-Kub\u00edn\u010dan \u2013 Tv\u00e1r mu\u017ea, okolo 1937",
-                "credit": ""
-            },
-            "location": {
-                "iconSize": [48, 48],
-                "lon": 18.92139,
-                "zoom": 12,
-                "lat": 49.06361,
-                "line": true,
-                "icon": "images/easel-2.png",
-                "use_custom_marker": true
-            },
-            "background": {
-                "url": "images/bazovsky-kubincan.jpg"
-            },
-            "text": {
-                "headline": "Martin, 1934",
-                "text": "V roku 1934 sa Weisz-Kub\u00edn\u010dan pres\u0165ahoval do Martina, zrejme aj na naliehanie kolegu a priate\u013ea Milo\u0161a Alexandra Bazovsk\u00e9ho. <p style=\"color:#fff\">Ich vz\u0165ah bol naozaj bl\u00edzky, na Bazovsk\u00e9ho krajinn\u00fdch fotografi\u00e1ch sa Weisz-Kub\u00edn\u010dan objavuje pomerne frekventovane. </p><p>Maliari spolu tr\u00e1vili ve\u013ea \u010dasu, ich vz\u0165ah k Slovensku, \u013eu\u010fom a krajine bol v mnohom podobn\u00fd. Ak dielo Bazovsk\u00e9ho vn\u00edmame ako modernistick\u00fa alternat\u00edvu k Benkovmu romanticko-patetick\u00e9mu konceptu (m\u00fdtus zeme a \u013eudu),&nbsp; Kub\u00edn\u010dan k tejto alternat\u00edve prispel expres\u00edvnym, antifolk\u00f3rnym, neliter\u00e1rnym uchopen\u00edm \u201eslovensk\u00e9ho\u201c mot\u00edvu.<br></p>"
-            }
-        }, {
-            "date": "",
-            "media": {
-                "url": "images/1940.jpg",
-                "caption": "Arnold Peter Weisz-Kub\u00edn\u010dan \u2013 Hlava mu\u017ea, okolo 1940",
-                "credit": ""
-            },
-            "location": {
-                "iconSize": [48, 48],
-                "lon": 18.8690185546875,
-                "zoom": 12,
-                "lat": 49.03786794532644,
-                "line": true,
-                "icon": "images/Kufor-2.png",
-                "use_custom_marker": true
-            },
-            "background": {
-                "url": "images/hajluj.jpg"
-            },
-            "text": {
-                "headline": "Martin, 1939",
-                "text": "<div><strong>Kr\u00e1tka</strong> \u0161\u0165astn\u00e1 \u017eivotn\u00e1 epiz\u00f3da sa definit\u00edvne skon\u010dila v roku 1939. Weisz-Kub\u00edn\u010dan sa pot\u00fdkal so z\u00fafalou finan\u010dnou situ\u00e1ciou a \u010doraz intenz\u00edvnej\u0161ie poci\u0165oval hrozbu sankci\u00ed a deport\u00e1cie. Tej sa sna\u017eil vyhn\u00fa\u0165 t\u00fdm, \u017ee sa v marci 1939 nechal pokrsti\u0165. Po vyhl\u00e1sen\u00ed samostatn\u00e9ho slovensk\u00e9ho \u0161t\u00e1tu 14. marca 1939 sa ale z proti\u017eidovskej politiky stala \u0161t\u00e1tna doktr\u00edna. Nie je zn\u00e1me, ako sa maliarovi tak dlho darilo vyhn\u00fa\u0165 sa deport\u00e1cii, ke\u010f od za\u010diatku figuroval na v\u0161etk\u00fdch zoznamoch \u017eidovsk\u00e9ho obyvate\u013estva na Slovensku, mo\u017eno zapracovali vplyvn\u00ed zn\u00e1mi. </div>"
-            }
-        }, {
-            "date": "",
-            "media": {
-                "url": "images/1944.jpg",
-                "caption": "Arnold Peter Weisz-Kub\u00edn\u010dan \u2013 Autoportr\u00e9t, 1940-1944",
-                "credit": ""
-            },
-            "location": {
-                "iconSize": [48, 48],
-                "lon": 14.500154,
-                "zoom": 9,
-                "lat": 48.257164,
-                "line": true,
-                "icon": "images/Quill-Pen-2.png",
-                "use_custom_marker": true
-            },
-            "background": {
-                "url": "images/koncentrak.jpg"
-            },
-            "text": {
-                "headline": "Deport\u00e1cia, 1945",
-                "text": "V z\u00e1vere\u010dnom obdob\u00ed sa u\u017e musel skr\u00fdva\u0165, ale krut\u00fdm ch\u00e1padl\u00e1m nacistickej vyhladzovacej ma\u0161in\u00e9rie nakoniec aj tak neunikol. Okolnosti jeho smrti s\u00fa dodnes nevyjasnen\u00e9. Ako miesto smrti sa niekedy uv\u00e1dza koncentra\u010dn\u00fd t\u00e1bor Mauthausen, ale je mo\u017en\u00e9 \u017ee zahynul u\u017e po\u010das transportu."
-            }
-        }, {
-            "date": "",
-            "media": {
-                "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/XDXiXtPfO1E?controls=0\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-                "caption": "",
-                "credit": ""
-            },
-            "location": {
-                "iconSize": [48, 48],
-                "lon": 17.11278,
-                "zoom": 12,
-                "lat": 48.14472,
-                "line": true,
-                "icon": "images/easel-2.png",
-                "use_custom_marker": true
-            },
-            "background": {
-                "url": "images/sedliacka.jpg"
-            },
-            "text": {
-                "headline": "Dielo",
-                "text": "<div>Porobil toho ve\u013ea, nebol m\u00e1rny... V\u0161etko sa d\u00e1 stiahnu\u0165 z <a href=\"https://www.webumenia.sk/autor/11709\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://www.webumenia.sk/autor/11709\">Webu umenia</a>.<br></div><div><br></div>"
-            }
-        }],
+        ],
         "map_access_token": "pk.eyJ1IjoibGFiLXNuZyIsImEiOiJjangzZDEycDQwMDd1NDRsYnFuZTl1dTFnIn0.R9y0R8xrmDmkT3-X8dMP4w",
         "map_type": "mapbox:mapbox://styles/lab-sng/cjyem72sa01rq1ct217wb6au8",
-        "call_to_action_text": "Jak\u017ee?",
+        "call_to_action_text": "Jakže?",
         "map_as_image": false,
         "map_subdomains": "abcd"
     },
-    "font_css": "stock:fjalla-average"
+    "font_css": "stock:lustria-lato"
 }

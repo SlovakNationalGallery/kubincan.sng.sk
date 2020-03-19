@@ -6,16 +6,15 @@ body {
     width: 100%;
     padding: 0px;
     margin: 0px;
+    font-size: 15pt;
+    line-height: 1.3em;
 }
 
-a{
+a {
     font-weight: bold;
 }
 .vco-storymap {
     font-family: 'Average Sans', sans-serif;
-    font-weight: 400;
-    font-size: 15pt;
-    line-height: 1.3em;
 }
 
 .vco-storymap h1,
@@ -27,13 +26,13 @@ a{
     font-family: 'Anton', sans-serif;
     text-transform: none;
     font-weight: 400;
-    font-size: 46px;
-    line-height: 1.1em;
+    font-size: 3rem;
+    line-height: 1.3em;
 }
 
 .vco-storymap h2.vco-headline-title {
-    font-size: 58px;
-    line-height: 58px;
+    font-size: 3rem;
+    line-height: 1.1em;
 }
 
 .vco-storymap p {
@@ -150,4 +149,33 @@ body {
     overflow-y: auto;
     display: block;
     height: 100%;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        font-size: 12pt;
+        line-height: 1.3em;
+    }
+    .vco-storymap h2.vco-headline-title {
+        font-size: 2rem;
+        line-height: 1.1em;
+    }
+    .vco-storymap h1,
+    .vco-storymap h2,
+    .vco-storymap h3,
+    .vco-storymap h4,
+    .vco-storymap h5,
+    .vco-storymap h6 {
+        font-size: 1.4rem;
+        line-height: 1.3em;
+    }
+
+    .vco-slide .vco-slide-scrollable-container {
+        overflow: auto;
+        display: block;
+    }
+    .vco-text-content-container {
+        padding-top: 20vh !important;
+        overflow: auto;
+    }
 }

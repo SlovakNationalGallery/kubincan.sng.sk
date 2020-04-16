@@ -38,7 +38,7 @@
                     "zoom": 9,
                     "lat": 49.278556648075146,
                     "line": true,
-                    "icon": "images/Kufor-2.png",
+                    "icon": "images/kon-ikona.png",
                     "use_custom_marker": true
                 },
                 "background": {
@@ -63,7 +63,7 @@
                     "zoom": 10,
                     "lat": 47.47219873409285,
                     "line": true,
-                    "icon": "images/easel-2.png",
+                    "icon": "images/kon-ikona.png",
                     "use_custom_marker": true
                 },
                 "background": {
@@ -87,7 +87,7 @@
                     "zoom": 9,
                     "lat": 45.69994529846052,
                     "line": true,
-                    "icon": "images/Kufor-2.png",
+                    "icon": "images/kon-ikona.png",
                     "use_custom_marker": true
                 },
                 "background": {
@@ -112,7 +112,7 @@
                     "zoom": 10,
                     "lat": 48.570246572767076,
                     "line": true,
-                    "icon": "images/Kufor-2.png",
+                    "icon": "images/kon-ikona.png",
                     "use_custom_marker": true
                 },
                 "background": {
@@ -137,7 +137,7 @@
                     "zoom": 8,
                     "lat": 52.506191342034576,
                     "line": true,
-                    "icon": "images/easel-2.png",
+                    "icon": "images/kon-ikona.png",
                     "use_custom_marker": true
                 },
                 "background": {
@@ -162,7 +162,7 @@
                     "zoom": 12,
                     "lat": 49.21167,
                     "line": true,
-                    "icon": "images/Quill-Pen-2.png",
+                    "icon": "images/kon-ikona.png",
                     "use_custom_marker": true
                 },
                 "background": {
@@ -187,7 +187,7 @@
                     "zoom": 12,
                     "lat": 49.08353590768416,
                     "line": true,
-                    "icon": "images/Kufor-2.png",
+                    "icon": "images/kon-ikona.png",
                     "use_custom_marker": true
                 },
                 "background": {
@@ -211,7 +211,7 @@
                     "zoom": 12,
                     "lat": 49.21167,
                     "line": true,
-                    "icon": "images/easel-2.png",
+                    "icon": "images/kon-ikona.png",
                     "use_custom_marker": true
                 },
                 "background": {
@@ -235,7 +235,7 @@
                     "zoom": 12,
                     "lat": 49.06441896121407,
                     "line": true,
-                    "icon": "images/easel-2.png",
+                    "icon": "images/kon-ikona.png",
                     "use_custom_marker": true
                 },
                 "background": {
@@ -260,7 +260,7 @@
                     "zoom": 12,
                     "lat": 49.029989917285235,
                     "line": true,
-                    "icon": "images/Quill-Pen-2.png",
+                    "icon": "images/kon-ikona.png",
                     "use_custom_marker": true
                 },
                 "background": {
@@ -285,7 +285,7 @@
                     "zoom": 12,
                     "lat": 49.09607038073024,
                     "line": true,
-                    "icon": "images/Quill-Pen-2.png",
+                    "icon": "images/kon-ikona.png",
                     "use_custom_marker": true
                 },
                 "background": {
@@ -310,7 +310,7 @@
                     "zoom": 9,
                     "lat": 48.257164,
                     "line": true,
-                    "icon": "images/Quill-Pen-2.png",
+                    "icon": "images/kon-ikona.png",
                     "use_custom_marker": true
                 },
                 "background": {
@@ -335,7 +335,7 @@
                     "zoom": 12,
                     "lat": 49.058344979789126,
                     "line": true,
-                    "icon": "images/Kufor-2.png",
+                    "icon": "images/kon-ikona.png",
                     "use_custom_marker": true
                 },
                 "background": {
@@ -359,7 +359,7 @@
                     "zoom": 12,
                     "lat": 52.52437,
                     "line": true,
-                    "icon": "images/Kufor-2.png",
+                    "icon": "images/kon-ikona.png",
                     "use_custom_marker": true
                 },
                 "background": {
@@ -384,7 +384,7 @@
                     "zoom": 11,
                     "lat": 40.74309523218185,
                     "line": true,
-                    "icon": "images/Kufor-2.png",
+                    "icon": "images/kon-ikona.png",
                     "use_custom_marker": true
                 },
                 "background": {
@@ -409,7 +409,7 @@
                     "zoom": 16,
                     "lat": 48.14017469809891,
                     "line": true,
-                    "icon": "images/easel-2.png",
+                    "icon": "images/kon-ikona.png",
                     "use_custom_marker": true
                 },
                 "background": {
@@ -433,7 +433,7 @@
                     "zoom": 14,
                     "lat": 42.81723553774724,
                     "line": true,
-                    "icon": "images/easel-2.png",
+                    "icon": "images/kon-ikona.png",
                     "use_custom_marker": true
                 },
                 "background": {
@@ -458,7 +458,7 @@
                     "zoom": 18,
                     "lat": 48.14004940731036,
                     "line": true,
-                    "icon": "images/easel-2.png",
+                    "icon": "images/kon-ikona.png",
                     "use_custom_marker": true
                 },
                 "background": {
@@ -483,7 +483,7 @@
                     "zoom": 14,
                     "lat": 42.80709830895021,
                     "line": true,
-                    "icon": "images/Quill-Pen-2.png",
+                    "icon": "images/kon-ikona.png",
                     "use_custom_marker": true
                 },
                 "background": {
@@ -507,7 +507,7 @@
                     "zoom": 14,
                     "lat": 48.14908029984749,
                     "line": true,
-                    "icon": "images/Quill-Pen-2.png",
+                    "icon": "images/kon-ikona.png",
                     "use_custom_marker": true
                 },
                 "background": {
@@ -531,7 +531,7 @@
                     "zoom": 14,
                     "lat": 48.13997423269043,
                     "line": true,
-                    "icon": "images/Kufor-2.png",
+                    "icon": "images/kon-ikona.png",
                     "use_custom_marker": true
                 },
                 "background": {

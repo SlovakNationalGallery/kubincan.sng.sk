@@ -77,8 +77,8 @@
             {
                 "date": "",
                 "media": {
-                    "url": "",
-                    "caption": "",
+                    "url": "images/SNG--K_19110--0_1--2019_03_01--LP_WEB.jpg",
+                    "caption": "Arnold Peter Weisz-Kubínčan – Autoportrét, po 1920",
                     "credit": ""
                 },
                 "location": {
@@ -201,8 +201,8 @@
             {
                 "date": "",
                 "media": {
-                    "url": "",
-                    "caption": "",
+                    "url": "images/SNG--K_19417--0_1--2019_04_16--LP_WEB.jpg",
+                    "caption": "Arnold Peter Weisz-Kubínčan – Autoportrét, 1930",
                     "credit": ""
                 },
                 "location": {
@@ -219,14 +219,14 @@
                 },
                 "text": {
                     "headline": "Dolný Kubín, 1930",
-                    "text": "<p>Po takmer dekáde biedy a&nbsp;neúspechu sa Arnoldovi konečne začína dariť. Po&nbsp;drobných súkromných objednávkach dostáva cez Maticu slovenskú zadanie ilustrovať turistického sprievodcu po&nbsp;Orave. Arnold je ako lokálpatriot a&nbsp;znalec oravskej prírody ideálnym adeptom na&nbsp;zachytenie čara tohto regiónu.</p><p>Okrem maľovania žije Arnold poľovníctvom. So svojimi troma psami Paschom, Tyranom a&nbsp;Titom pravidelne vyráža do&nbsp;lesov loviť diviaky, jelene či líšky a&nbsp;dojmy z&nbsp;lovu potom zachytáva na&nbsp;papieri a&nbsp;na&nbsp;plátne. Fascinuje ho skrytý, pulzujúci život lesa. Čoraz divokejšie línie, ťahy a&nbsp;farby akoby chceli ukázať dýchajúci svet plný netušenej drámy a&nbsp;intenzívnych emócií.</p><p>Arnold rád kreslí zvieratá a&nbsp;vníma ich ako symboly. Jeho kone sú hravé, nespútané a&nbsp;slobodné, stelesňujú túžbu po&nbsp;rozlete. Obrazy lovu sa však postupom času stávajú agresívnejšími a&nbsp;menia sa na&nbsp;nerovný boj. Rastúca hrozba nacizmu a&nbsp;rasového prenasledovania robí štvanú zver z&nbsp;ľudských bytostí. Zlietajúce sa orly na&nbsp;tušovej kresbe naznačujú krvilačnosť a&nbsp;blížiace sa smrteľné nebezpečenstvo.</p>"
+                    "text": "<p>Po takmer dekáde biedy a&nbsp;neúspechu sa Arnoldovi konečne začína dariť. Po&nbsp;drobných súkromných objednávkach dostáva cez Maticu slovenskú zadanie ilustrovať turistického sprievodcu po&nbsp;Orave. Arnold je ako lokálpatriot a&nbsp;znalec oravskej prírody ideálnym adeptom na&nbsp;zachytenie čara tohto regiónu.</p><p>Okrem maľovania žije Arnold poľovníctvom. So svojimi troma psami Paschom, Tyranom a&nbsp;Titom pravidelne vyráža do&nbsp;lesov loviť diviaky, jelene či líšky a&nbsp;dojmy z&nbsp;lovu potom zachytáva na&nbsp;papieri a&nbsp;na&nbsp;plátne. Fascinuje ho skrytý, pulzujúci život lesa. Čoraz divokejšie línie, ťahy a&nbsp;farby akoby chceli ukázať dýchajúci svet plný netušenej drámy a&nbsp;intenzívnych emócií.</p><p>Arnold rád kreslí zvieratá a&nbsp;vníma ich ako symboly. Jeho kone sú hravé, nespútané a&nbsp;slobodné, stelesňujú túžbu po&nbsp;rozlete. Obrazy lovu sa však postupom času stávajú agresívnejšími a&nbsp;menia sa na&nbsp;nerovný boj. Rastúca hrozba nacizmu a&nbsp;rasového prenasledovania robí štvanú zver z&nbsp;ľudských bytostí. Zlietajúce sa orly na&nbsp;<a href='https://www.webumenia.sk/dielo/SVK:SNG.K_9011' target='_blank'>tušovej kresbe</a> naznačujú krvilačnosť a&nbsp;blížiace sa smrteľné nebezpečenstvo.</p>"
                 }
             },
             {
                 "date": "",
                 "media": {
-                    "url": "",
-                    "caption": "",
+                    "url": "images/SNG--K_19131--0_1--2019_04_03--LP_WEB.jpg",
+                    "caption": "Arnold Peter Weisz-Kubínčan – Autoportrét perom, 1930 – 1940",
                     "credit": ""
                 },
                 "location": {
@@ -324,9 +324,10 @@
             {
                 "date": "",
                 "media": {
-                    "url": "",
-                    "caption": "",
+                    "url": "images/SNG--K_1903--1_1--2015_05_28--L2_WEB.jpg",
+                    "caption": "Vincent Hložník – Z koncentráku, okolo 1942",
                     "credit": ""
+                    "link":"https://www.webumenia.sk/dielo/SVK:SNG.K_1903"
                 },
                 "location": {
                     "iconSize": [48, 48],
@@ -348,8 +349,8 @@
             {
                 "date": "",
                 "media": {
-                    "url": "",
-                    "caption": "",
+                    "url": "images/vojna.jpg",
+                    "caption": "Arnold Peter Weisz-Kubínčan – Vojna, 1922",
                     "credit": ""
                 },
                 "location": {
@@ -370,9 +371,9 @@
                 }
             },
             {
-                "date": "images/SVK_GPB.G_577.jpeg",
+                "date": "",
                 "media": {
-                    "url": "",
+                    "url": "images/SVK_GPB.G_577.jpg",
                     "caption": "Koloman Sokol – Vysťahovalci, 1930",
                     "credit": "",
                     "link":"https://www.webumenia.sk/dielo/SVK:GPB.G_577"
@@ -422,8 +423,8 @@
             {
                 "date": "",
                 "media": {
-                    "url": "",
-                    "caption": "",
+                    "url": "images/noviny_vystava.jpg",
+                    "caption": "Správa o výstave v novinách, 1961, Skicár č. 18",
                     "credit": ""
                 },
                 "location": {

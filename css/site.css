@@ -35,9 +35,16 @@ a {
     line-height: 1.1em;
 }
 
+.vco-storymap h2.vco-headline span {
+    display: block;
+    padding:0;
+    margin:0;
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
 .vco-storymap p {
     font-family: 'Noto Sans', sans-serif;
-    font-size: 15pt;
+    font-size: 14pt;
     line-height: 1.3em;
 }
 

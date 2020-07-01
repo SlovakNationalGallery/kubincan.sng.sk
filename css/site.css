@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Noto+Sans&display=swap&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Libre+Baskerville&display=swap&subset=latin-ext');
 
 html,
 body {
@@ -14,7 +14,7 @@ a {
     font-weight: bold;
 }
 .vco-storymap {
-    font-family: 'Noto Sans', serif;
+    font-family: 'Libre Baskerville', serif;
 }
 
 .vco-storymap h1,
@@ -39,21 +39,22 @@ a {
     display: block;
     padding:0;
     margin:0;
-    font-size: 1.5rem;
-    line-height: 2rem;
+    font-size: .5em;
+    line-height: 1.5em;
 }
 .vco-storymap p {
-    font-family: 'Noto Sans', sans-serif;
-    font-size: 14pt;
-    line-height: 1.3em;
+    font-family: 'Libre Baskerville', sans-serif;
+    font-size: 13pt;
+    line-height: 1.5em;
+    padding-bottom: .7em;
 }
 
 .vco-storymap ul {
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Libre Baskerville', sans-serif;
 }
 
 .vco-storymap .vco-media .vco-media-wikipedia h4 a {
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Libre Baskerville', sans-serif;
     font-weight: 400;
     font-size: 24px;
     line-height: 24px;
@@ -61,11 +62,11 @@ a {
 
 .vco-storymap .vco-caption,
 .vco-storymap .vco-credit {
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Libre Baskerville', sans-serif;
 }
 
 .vco-storymap .vcard {
-    font-family: 'Noto Sans', sans-serif !important;
+    font-family: 'Libre Baskerville', sans-serif !important;
     font-weight: normal !important;
 }
 
@@ -73,7 +74,7 @@ a {
 .vco-storymap .vco-slidenav-previous,
 .vco-storymap .vco-message,
 .vco-storymap .vco-slide-calltoaction-button-text {
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Libre Baskerville', sans-serif;
     font-weight: 400;
     text-transform: none;
 }
@@ -87,7 +88,7 @@ a {
 
 .vco-storymap .vco-headline-date,
 .vco-storymap h3.vco-headline-date {
-    font-family: 'Noto Sans', sans-serif !important;
+    font-family: 'Libre Baskerville', sans-serif !important;
     font-weight: normal !important;
     text-transform: none !important;
 }
@@ -98,13 +99,13 @@ a {
 }
 
 .vco-storymap .vco-menubar {
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Libre Baskerville', sans-serif;
     text-transform: none;
 }
 
 .vco-storymap blockquote,
 .vco-storymap blockquote p {
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Libre Baskerville', sans-serif;
     font-style: normal;
     font-weight: 400;
     line-height: 1.3;

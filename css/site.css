@@ -47,6 +47,7 @@ a {
     font-size: 13pt;
     line-height: 1.5em;
     padding-bottom: .7em;
+    max-width: 40em;
 }
 
 .vco-storymap ul {
@@ -135,6 +136,8 @@ body {
 
 .vco-text-content-container {
     padding-top: 40vh !important;
+    max-width: 40em;
+    margin: 0 auto;
 }
 
 .vco-text-content img{
